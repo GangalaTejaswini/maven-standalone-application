@@ -18,7 +18,7 @@
 	<description>Maven Standalone Applications.Infosys.i am working</description>
 
 	<properties>
-		<sonar.host.url>http://13.235.132.58:9000/</sonar.host.url>
+		<sonar.host.url>http://65.0.169.149:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>Tejaswini90@V</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
